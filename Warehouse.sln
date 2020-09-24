@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warehouse.Presentation", "Warehouse.Presentation\Warehouse.Presentation.csproj", "{B5F51BE6-4C62-4A1A-9087-9D2EE7FB65E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warehouse.Service", "Warehouse.Service\Warehouse.Service.csproj", "{4747C164-6D0A-456D-8BCD-7B637E2BE2A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warehouse.Repository", "Warehouse.Repository\Warehouse.Repository.csproj", "{AA301E32-E7E4-4D24-98DE-EC34698EA063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseHelper", "DatabaseHelper\DatabaseHelper.csproj", "{4895C904-9816-4137-BC8C-BEAA79355FFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Addons", "Addons", "{BC00991F-85E8-434A-A6FA-DDBAFCA85153}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{9CEA60A6-129B-47B5-B2B8-79608825E103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warehouse.UnitTest", "Warehouse.UnitTest\Warehouse.UnitTest.csproj", "{B14DC481-A5B6-4673-AC34-DAAA49386E45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warehouse.Models", "Warehouse.Models\Warehouse.Models.csproj", "{5C8A60E5-7996-41B1-A880-FB1FB0BB9EB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5F51BE6-4C62-4A1A-9087-9D2EE7FB65E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F51BE6-4C62-4A1A-9087-9D2EE7FB65E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F51BE6-4C62-4A1A-9087-9D2EE7FB65E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F51BE6-4C62-4A1A-9087-9D2EE7FB65E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4747C164-6D0A-456D-8BCD-7B637E2BE2A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4747C164-6D0A-456D-8BCD-7B637E2BE2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4747C164-6D0A-456D-8BCD-7B637E2BE2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4747C164-6D0A-456D-8BCD-7B637E2BE2A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA301E32-E7E4-4D24-98DE-EC34698EA063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA301E32-E7E4-4D24-98DE-EC34698EA063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA301E32-E7E4-4D24-98DE-EC34698EA063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA301E32-E7E4-4D24-98DE-EC34698EA063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4895C904-9816-4137-BC8C-BEAA79355FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4895C904-9816-4137-BC8C-BEAA79355FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4895C904-9816-4137-BC8C-BEAA79355FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4895C904-9816-4137-BC8C-BEAA79355FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14DC481-A5B6-4673-AC34-DAAA49386E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14DC481-A5B6-4673-AC34-DAAA49386E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14DC481-A5B6-4673-AC34-DAAA49386E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14DC481-A5B6-4673-AC34-DAAA49386E45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8A60E5-7996-41B1-A880-FB1FB0BB9EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8A60E5-7996-41B1-A880-FB1FB0BB9EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8A60E5-7996-41B1-A880-FB1FB0BB9EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8A60E5-7996-41B1-A880-FB1FB0BB9EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4895C904-9816-4137-BC8C-BEAA79355FFF} = {BC00991F-85E8-434A-A6FA-DDBAFCA85153}
+		{B14DC481-A5B6-4673-AC34-DAAA49386E45} = {9CEA60A6-129B-47B5-B2B8-79608825E103}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74305FA4-8233-489B-A46B-ADC05227D40C}
+	EndGlobalSection
+EndGlobal

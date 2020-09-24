@@ -1,0 +1,6 @@
+C:\Users\levan\Source\Repos\daviddvali\Group-15\Warehouse\DatabaseHelper\bin\Debug\DatabaseHelper.dll
+C:\Users\levan\Source\Repos\daviddvali\Group-15\Warehouse\DatabaseHelper\bin\Debug\DatabaseHelper.pdb
+C:\Users\levan\Source\Repos\daviddvali\Group-15\Warehouse\DatabaseHelper\obj\Debug\DatabaseHelper.csprojAssemblyReference.cache
+C:\Users\levan\Source\Repos\daviddvali\Group-15\Warehouse\DatabaseHelper\obj\Debug\DatabaseHelper.csproj.CoreCompileInputs.cache
+C:\Users\levan\Source\Repos\daviddvali\Group-15\Warehouse\DatabaseHelper\obj\Debug\DatabaseHelper.dll
+C:\Users\levan\Source\Repos\daviddvali\Group-15\Warehouse\DatabaseHelper\obj\Debug\DatabaseHelper.pdb

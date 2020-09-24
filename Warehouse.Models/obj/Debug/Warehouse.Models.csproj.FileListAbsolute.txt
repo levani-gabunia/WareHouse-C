@@ -1,0 +1,6 @@
+C:\Users\levan\Source\Repos\daviddvali\Group-15\Warehouse\Warehouse.Models\bin\Debug\Warehouse.Models.dll
+C:\Users\levan\Source\Repos\daviddvali\Group-15\Warehouse\Warehouse.Models\bin\Debug\Warehouse.Models.pdb
+C:\Users\levan\Source\Repos\daviddvali\Group-15\Warehouse\Warehouse.Models\obj\Debug\Warehouse.Models.csprojAssemblyReference.cache
+C:\Users\levan\Source\Repos\daviddvali\Group-15\Warehouse\Warehouse.Models\obj\Debug\Warehouse.Models.csproj.CoreCompileInputs.cache
+C:\Users\levan\Source\Repos\daviddvali\Group-15\Warehouse\Warehouse.Models\obj\Debug\Warehouse.Models.dll
+C:\Users\levan\Source\Repos\daviddvali\Group-15\Warehouse\Warehouse.Models\obj\Debug\Warehouse.Models.pdb
